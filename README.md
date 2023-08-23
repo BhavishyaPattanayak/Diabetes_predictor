@@ -1,5 +1,5 @@
 # Diabetes_predictor
-Predicts whether a patient has diabetes or not based on their features
+Predicts whether a patient has diabetes
 This project demonstrates the creation of a diabetes predictor using various machine learning algorithms implemented with scikit-learn. Decision Tree, Random Forest, Support Vector Machine (SVM), and Naive Bayes classifiers were implemented and evaluated. Random Forest emerged as the most accurate model, and hence, it was chosen for the final diabetes predictor.
 The goal of this project is to develop a diabetes predictor based on available healthcare data. The dataset contains features like glucose level, blood pressure, BMI, and others, which can be used to predict whether a person has diabetes or not.
 Four different classification algorithms were implemented using scikit-learn:
